@@ -1,0 +1,1 @@
+console.log("Get Rich, or Die Trying")
